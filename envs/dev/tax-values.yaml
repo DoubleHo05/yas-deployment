@@ -1,7 +1,7 @@
 backend:
   image:
     repository: docker.io/doubleho/yas-tax
-    tag: bb479177d6d0
+    tag: main
   livenessProbe:
     initialDelaySeconds: 90
     periodSeconds: 10
