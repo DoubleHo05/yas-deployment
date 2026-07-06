@@ -36,7 +36,7 @@ The Argo CD Applications use multi-source configuration:
 Push this repository to GitHub as:
 
 ```text
-https://github.com/hoanghaitapcode/yas-deployment.git
+https://github.com/DoubleHo05/yas-deployment.git
 ```
 
 Then apply the root apps once:

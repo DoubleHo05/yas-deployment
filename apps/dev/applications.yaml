@@ -37,7 +37,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/product-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -66,7 +66,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/cart-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -95,7 +95,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/order-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -124,7 +124,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/customer-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -153,7 +153,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/inventory-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -182,7 +182,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/tax-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -211,7 +211,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/media-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -240,7 +240,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/search-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -269,7 +269,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/storefront-bff-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -298,7 +298,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/storefront-ui-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -327,7 +327,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/backoffice-bff-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -356,7 +356,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/backoffice-ui-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -385,7 +385,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/swagger-ui-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:
@@ -414,7 +414,7 @@ spec:
       helm:
         valueFiles:
           - $values/envs/dev/sampledata-values.yaml
-    - repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    - repoURL: https://github.com/DoubleHo05/yas-deployment.git
       targetRevision: main
       ref: values
   destination:

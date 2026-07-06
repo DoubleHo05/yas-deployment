@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/hoanghaitapcode/yas-deployment.git
+    repoURL: https://github.com/DoubleHo05/yas-deployment.git
     targetRevision: main
     path: apps/staging
   destination:
