@@ -1,6 +1,6 @@
 backend:
   image:
     repository: docker.io/doubleho/yas-tax
-    tag: v1.0.0
+    tag: v1.0.1
   serviceMonitor:
     enabled: false
